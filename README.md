@@ -1,2 +1,2 @@
-# class-69-Wily-Stage-2-BarCodeScanner
-class 69 Wily Stage 2 BarCodeScanner
+# BarCodeScanner
+BarCode scanning in WiLy
